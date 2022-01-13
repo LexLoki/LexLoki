@@ -3,6 +3,7 @@
 I am a computer engineer passionate about math and challenges
 
 <div align="center">
+  <a href="https://github.com/LexLoki">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LexLoki&theme=dark&count_private=true&show_icons=true&include_all_commits=true&hide=contribs" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LexLoki&layout=compact&theme=dark&langs_count=8" />
 </div>
